@@ -1,5 +1,5 @@
-My major projects
-=================
+### My projects:
+
 
 * 🔗 [Ketting](https://github.com/badgateway/ketting) - The (current) best HATEOAS client for Javascript
 * ⚾ [Curveball](https://github.com/curveball/core) - A modern server-side Node.js framework (like Express)
