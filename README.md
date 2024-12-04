@@ -7,6 +7,4 @@
 
 [Read my blog](https://evertpot.com/)
 
-Want to hire me? I run a small agency in Toronto called Bad Gateway. [Hire us!](mailto:info@badgateway.net).
-
-You can also [sponsor me directly](https://github.com/sponsors/evert) and support my Open Source work.
+You can [sponsor me directly](https://github.com/sponsors/evert) and support my Open Source work.
